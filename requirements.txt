@@ -1,0 +1,9 @@
+python>=3.9
+
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+jupyterlab
